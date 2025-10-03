@@ -4,7 +4,9 @@ title: Home
 
 == Hello World!
 
-I am a Rails programmer and hobbyist game developer.
+image::images/profile-color.jpg[Profile, 200]
+
+I'm a Rails programmer and hobbyist game developer based in Fukuoka, Japan.
 
 
 === 🔗 Links
@@ -27,19 +29,35 @@ I am a Rails programmer and hobbyist game developer.
 ==== ❤️📝 Tools
 * Helix Editor
 
+==== ❤️📚 Books
+* 吼えろペン - 島本和彦
+
 ==== ❤️🏟️ Sports
 * Calcio: Inter Milano ⚫️🔵
 * Horse Riding
+
+==== ❤️🐿️ Animals
+* Chipmunk: Shotaro (2010/3 - 2021/6/13)
+
+image::images/shotaro.jpg[Shotaro, 200]
 
 
 === 🛠️ My Works
 
 ==== 🛠️💎  Ruby Gems
-* link:https://github.com/tkmfujise/i18n_factory[i18n-factory, window="_blank"]: 
+* link:https://github.com/tkmfujise/i18n_factory[i18n_factory, window="_blank"]: 
 Generates i18n files for each model.
 
 
 ==== 🛠️🎮  Godot Addons
 * link:https://tkmfujise.github.io/redscribe-docs[ReDScribe, window="_blank"]:
 Ruby-embedded DSL for Godot.
+
+
+==== 🛠️🎨 Paintings
+[.image-group]
+--
+image::images/painting-cat.jpg[Cat, 300]
+image::images/painting-fox.jpg[Fox, 300]
+--
 

@@ -13,3 +13,8 @@ body p {
 body {
   padding-bottom: 5rem;
 }
+
+body .image-group >.content {
+  display: flex;
+  gap: 1rem;
+}
