@@ -2,7 +2,7 @@
 
 source 'https://rubygems.org'
 
-gem 'nanoc', '~> 4.13'
+gem 'nanoc'
 gem 'adsf'
 gem 'puma'
 
