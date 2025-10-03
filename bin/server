@@ -1,9 +1,16 @@
-#!/bin/sh
+#!/usr/bin/env ruby
 
-__DIR__=$(cd $(dirname $0); pwd)
-APP_PATH=${APP_PATH:-$(cd $__DIR__/..; pwd)}
 
-cd $APP_PATH
+Dir.chdir File.expand_path('..', __dir__)
 
-bundle exec nanoc view
 
+# To handle Ctrl-C expected
+trap :INT do
+  reg = %r{\d+\s+(\d+).+tcp://(127.0.0.1|localhost):300\d}
+  pid = `ps -ef | grep puma`[reg, 1]
+  Process.kill :TERM, pid.to_i
+  exit
+end
+
+
+system 'bundle exec nanoc live'

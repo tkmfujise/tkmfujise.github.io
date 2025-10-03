@@ -7,3 +7,7 @@ gem 'adsf'
 gem 'puma'
 
 gem 'asciidoctor'
+
+group 'nanoc' do
+  gem 'nanoc-live'
+end

@@ -5,20 +5,3 @@ title: Home
 
 I ❤ Ruby, Rails, Julia, Godot.
 
-
-=== 2024年 TODO
-
-* [ ] ゲーム制作
-* [ ] 絵を描く
-* [ ] 読書
-** [ ] SICP
-*** [x] 1章
-*** [x] 2章
-*** [ ] 3章
-*** [ ] 4章
-*** [ ] 5章
-** [ ] ドメイン特化言語 | マーチン・ファウラー 著 (ピアソン 2012)
-** [x] ［作って学ぶ］ブラウザのしくみ ─HTTP、HTML、CSS、JavaScriptの裏側 | 土井麻未 著 (技術評論社 2024)
-** [ ] [試して理解] Linuxのしくみ | 武内覚 著 (技術評論社)
-** [x] Game Programming Patterns ソフトウェア開発の問題解決メニュー | Robert Nystrom (インプレス)
-
