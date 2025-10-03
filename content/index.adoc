@@ -1,7 +1,45 @@
 ---
 title: Home
 ---
-== tkmfujise.github.io
 
-I ❤ Ruby, Rails, Julia, Godot.
+== Hello World!
+
+I am a Rails programmer and hobbyist game developer.
+
+
+=== 🔗 Links
+* link:https://github.com/tkmfujise[GitHub, window="_blank"]
+* link:https://zenn.dev/tkmfujise[Zenn, window="_blank"]
+* link:https://x.com/tkmfujise[X (Twitter), window="_blank"]
+
+
+=== ❤️ My Favorites
+
+==== ❤️🧩 Programming Languages
+* Ruby
+* Julia
+* Clojure
+
+==== ❤️🏗️ Frameworks
+* Rails
+* Godot
+
+==== ❤️📝 Tools
+* Helix Editor
+
+==== ❤️🏟️ Sports
+* Calcio: Inter Milano ⚫️🔵
+* Horse Riding
+
+
+=== 🛠️ My Works
+
+==== 🛠️💎  Ruby Gems
+* link:https://github.com/tkmfujise/i18n_factory[i18n-factory, window="_blank"]: 
+Generates i18n files for each model.
+
+
+==== 🛠️🎮  Godot Addons
+* link:https://tkmfujise.github.io/redscribe-docs[ReDScribe, window="_blank"]:
+Ruby-embedded DSL for Godot.
 

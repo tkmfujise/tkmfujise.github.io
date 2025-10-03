@@ -2,23 +2,21 @@
 <html lang="ja">
   <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>tkmfujise.github.io - <%= @item[:title] %></title>
+    <link rel="stylesheet" href="/simple.css">
     <link rel="stylesheet" href="/stylesheet.css">
 
     <!-- you don't need to keep this, but it's cool for stats! -->
     <meta name="generator" content="Nanoc <%= Nanoc::VERSION %>">
   </head>
   <body>
+    <header>
+      <h1>FUJISE Takumi</h1>
+      <p>@tkmfujise</p>
+    </header>
     <div id="main">
       <%= yield %>
-    </div>
-    <div id="sidebar">
-      <h2>Social</h2>
-      <ul>
-        <li><a target="_blank" href="https://zenn.dev/tkmfujise">Zenn</a></li>
-        <li><a target="_blank" href="https://github.com/tkmfujise">Github</a></li>
-        <li><a target="_blank" href="https://x.com/tkmfujise">X(Twitter)</a></li>
-      </ul>
     </div>
   </body>
 </html>
