@@ -1,0 +1,20 @@
+body header {
+  padding: 0;
+}
+
+body h3 {
+  border-bottom: 1px solid darkgray;
+}
+
+body p {
+  margin: 1rem 0;
+}
+
+body {
+  padding-bottom: 5rem;
+}
+
+body .image-group >.content {
+  display: flex;
+  gap: 1rem;
+}
