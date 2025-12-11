@@ -4,8 +4,6 @@ title: Home
 
 == Hello World!
 
-test
-
 image::images/profile-gray.jpg[Profile, 100]
 
 I'm a Rails programmer and hobbyist game developer based in Fukuoka, Japan.
