@@ -4,7 +4,7 @@ title: Home
 
 == Hello World!
 
-image::images/profile-color.jpg[Profile, 200]
+image::images/profile-gray.jpg[Profile, 100]
 
 I'm a Rails programmer and hobbyist game developer based in Fukuoka, Japan.
 
@@ -53,6 +53,11 @@ Generates i18n files for each model.
 ==== 🛠️🎮  Godot Addons
 * link:https://tkmfujise.github.io/redscribe-docs[ReDScribe, window="_blank"]:
 Ruby-embedded DSL for Godot.
+
+
+==== 🛠️⚛️  Julia Packages
+* link:https://github.com/tkmfujise/Wakaran.jl[Wakaran.jl, window="_blank"]:
+A toolkit to make Julia REPL more comfortable and expressive.
 
 
 ==== 🛠️🎨 Paintings
