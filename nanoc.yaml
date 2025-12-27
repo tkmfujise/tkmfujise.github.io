@@ -11,7 +11,10 @@ data_sources:
   - type: filesystem
     encoding: utf-8
 
-deploy:
-  default:
-    kind: git
-    branch: gh-pages
+# deploy:
+#   default:
+#     kind: git
+#     branch: gh-pages
+
+output_dir: docs   # for GitHub Pages
+

@@ -50,9 +50,11 @@ image::images/shotaro.jpg[Shotaro, 200]
 Generates i18n files for each model.
 
 
-==== 🛠️🎮  Godot Addons
+==== 🛠️🎮  Godot Addons/Tools
 * link:https://tkmfujise.github.io/redscribe-docs[ReDScribe, window="_blank"]:
 Ruby-embedded DSL for Godot.
+* link:https://github.com/tkmfujise/gd-doc[gd-doc, window="_blank"]:
+A documentation generator for Godot.
 
 
 ==== 🛠️⚛️  Julia Packages
