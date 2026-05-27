@@ -21,7 +21,7 @@ I'm a Rails programmer and hobbyist game developer based in Fukuoka, Japan.
 ==== ❤️🧩 Programming Languages
 * Ruby
 * Julia
-* Clojure
+* Janet
 
 ==== ❤️🏗️ Frameworks
 * Rails
